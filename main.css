@@ -22,6 +22,7 @@ body {
 }
 .menu__box {
   display: flex;
+  gap: 6.5px;
   flex-direction: column;
   padding-top: 159px;
 }
@@ -218,6 +219,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
