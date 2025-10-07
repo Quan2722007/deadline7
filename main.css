@@ -64,6 +64,7 @@ body {
 }
 
 .header__content {
+  color: #3E435D;
   font-size: 24px;
   font-weight: 500;
 }
@@ -222,6 +223,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
