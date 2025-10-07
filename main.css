@@ -90,8 +90,10 @@ body {
   padding: 0 10px 0 15px;
   border-radius: 8px;
 }
+.header placeholder{
+   color: #ada7a7;
+}
 .header input {
-    color: #ada7a7;
   font-family: "Poppins", sans-serif;
   border: none;
   font-size: 16px;
@@ -221,6 +223,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
