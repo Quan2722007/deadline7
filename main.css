@@ -177,6 +177,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 24 12px;
+  height: 52px;
   background-color: #f9f9f9;
   border-radius: 8px;
 }
@@ -222,6 +223,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
