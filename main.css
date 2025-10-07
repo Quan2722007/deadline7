@@ -199,7 +199,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 266px;
-  gap: 16;  
+  gap: 16px;  
 }
 .section_4_content {
   font-size: 18px;
@@ -209,7 +209,6 @@ body {
   display: flex;
   gap: 20px;
   align-items: center;
-  margin: 16px 0;
 }
 .section_4_border {
   display: flex;
@@ -221,6 +220,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
