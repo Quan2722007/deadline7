@@ -16,8 +16,6 @@ body {
   color: #ada7a7;
 }
 .menu {
-  margin-top: 0;
-  margin-left: 0;
   width: 78px;
   padding: 0;
   background-color: white;
@@ -220,6 +218,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
