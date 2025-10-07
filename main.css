@@ -106,8 +106,8 @@ body {
   background-color: #ffffff;
   border-radius: 8px;
 }
-.header__margin-left {
-  margin-left: 20px;
+.header__margin{
+  margin: 0 20px;
 }
 .warrper {
   display: flex;
@@ -220,6 +220,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
