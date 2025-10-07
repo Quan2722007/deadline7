@@ -125,7 +125,7 @@ body {
   height: 100px;
   width: 100%;
 }
-.warrper__box {
+.warper__box {
   display: flex;
   flex-direction: column;  
   gap: 32px;
@@ -218,6 +218,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
