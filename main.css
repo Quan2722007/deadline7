@@ -178,7 +178,7 @@ body {
 }
 .distance {
   display: flex;
-  flex-decration: colmun;
+ flex-direction: column;
   gap: 12px;
 }
 .section_2 {
@@ -219,6 +219,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
