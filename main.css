@@ -114,8 +114,9 @@ body {
   background-color: #ffffff;
   /* overflow: hidden; */
 }
-.warrper img {
+.banner {
   display: flex;
+  flex-direction: column;
   height: 100px;
   width: 100%;
   border-radius: 8px 8px 0 0;
@@ -220,6 +221,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
