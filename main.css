@@ -143,12 +143,8 @@ body {
   align-items: center;
 }
 .section_1__avt {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   width: 100px;
   height: 100px;
-  border-radius: 8px;
 }
 .section_1__wrap .content {
   font-size: 20px;
@@ -223,6 +219,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
