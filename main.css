@@ -134,7 +134,6 @@ body {
 .section_1 {
   display: flex;
   justify-content: space-between;
-  height: (100% - 64px);
   width: 100%;
 }
 .section_1__wrap {
@@ -219,6 +218,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
