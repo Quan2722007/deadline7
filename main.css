@@ -108,6 +108,7 @@ body {
 .header__avt{
   width: 52px;
   height: 52px;
+  border-radius: 10px;
 }
 .header__margin{
   margin: 0 20px;
@@ -222,6 +223,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
