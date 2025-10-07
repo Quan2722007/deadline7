@@ -216,12 +216,14 @@ body {
 .section_4_border {
   display: flex;
   align-items: center;
+  justify-content: center;
   width: 209px;
   height: 44px;
   border-radius: 8px;
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
