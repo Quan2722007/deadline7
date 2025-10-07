@@ -208,7 +208,7 @@ body {
 .section_4_box {
   display: flex;
   gap: 20px;
-  align-content: center;
+  align-items: center;
   margin: 16px 0;
 }
 .section_4_border {
@@ -221,6 +221,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
