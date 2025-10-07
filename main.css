@@ -200,7 +200,7 @@ body {
   flex-direction: column;
   width: 266px;
   height: 177px;
-  padding: 71px;
+  padding-bottom: 71px;
 }
 .section_4_content {
   font-size: 18px;
@@ -222,6 +222,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
