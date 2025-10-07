@@ -200,6 +200,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 266px;
+  margin: 32px 0;
 }
 .section_4_content {
   font-size: 18px;
@@ -210,7 +211,6 @@ body {
   justify-content: space-between;
   gap: 20px;
   align-content: center;
-  margin: 32px 0;
 }
 .section_4_border {
   display: flex;
@@ -222,6 +222,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
