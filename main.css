@@ -19,6 +19,7 @@ body {
   margin-top: 0;
   margin-left: 0;
   width: 78px;
+  height: 100vh;
   padding: 0;
   background-color: white;
 }
@@ -222,6 +223,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
