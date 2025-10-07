@@ -45,6 +45,7 @@ body {
   width: 78px;
 }
 .block {
+  height: 100%;
   width: 100%;
   background-color: #f9f9f9;
 }
@@ -223,6 +224,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
