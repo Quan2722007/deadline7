@@ -82,9 +82,12 @@ body {
   background-color: white;
 }
 .header__search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border: none;
   background-color: #ffffff;
-  padding: 1px 10px 1px 15px;
+  padding: 0 10px 0 15px;
   border-radius: 8px;
 }
 .header input {
@@ -221,6 +224,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
