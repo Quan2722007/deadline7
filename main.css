@@ -114,6 +114,11 @@ body {
   background-color: #ffffff;
   /* overflow: hidden; */
 }
+.warrper img {
+  height: 100px;
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+}
 .warrper__box {
   width: (100% - 64px);
   height: 100%;
@@ -214,4 +219,5 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
