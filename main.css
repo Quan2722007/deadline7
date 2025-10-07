@@ -108,7 +108,7 @@ body {
 .header__margin{
   margin: 0 20px;
 }
-.warrper {
+.warper {
   display: flex;
   flex-direction: column;
   margin: 0 40px 32px 40px;
@@ -218,6 +218,7 @@ body {
   color: #4182f9;
   background-color: rgba(65, 130, 250, 0.1);
 }
+
 
 
 
